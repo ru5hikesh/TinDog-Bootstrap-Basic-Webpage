@@ -27,4 +27,4 @@ Bootstrap 4: For styling and responsive design.
 HTML5: For the structure of the webpage.
 CSS3: For custom styling.
 
-## Link - https://ru5hikesh.github.io/TinDog-Bootstrap-Basic-Webpage/
+Link - https://ru5hikesh.github.io/TinDog-Bootstrap-Basic-Webpage/
